@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SuperSpace</string>
+    <string name="default_title">title</string>
+    <string name="default_value">default_value</string>
+    <string name="start_load">开始加载</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 阴影 -->
+    <color name="shadowA">#1A2927</color>
+    <color name="shadowB">#000000</color>
+    <color name="shadowC">#DEDEDE</color>
+    <color name="shadowD">#4C000000</color>
+    <color name="shadowE">#14000000</color>
+    <color name="shadowF">#617DD4</color>
+    <color name="shadowG">#2E2E2E</color>
+
+    <!-- 整体背景 -->
+    <color name="baseBg">#434345</color>
+    <color name="btnBgA">#607DD9</color>
+    <color name="btnBgA_half">#99607DD9</color>
+    <color name="btnBgB">#E6EAF2</color>
+    <color name="btnBgC">#6884DB</color>
+    <color name="btnBgD">#FFE0E4</color>
+    <color name="cardBg">#FFFFFF</color>
+    <color name="cardBgB">#7181B4</color>
+    <color name="cardBgC">#46B892</color>
+    <color name="cardBgC_half">#6646B892</color>
+    <color name="cardBgD">#F6F6F6</color>
+    <color name="cardBgE">#DDDDDD</color>
+    <color name="cardBgF">#DEDEDE</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="whiteBg">#FFFFFF</color>
+    <color name="inputBgA">#F2F2F2</color>
+    <color name="cardBgG">#E5EAFF</color>
+    <color name="cardBgH">#F4F4F4</color>
+    <color name="cardBgI">#E6E6E6</color>
+    <color name="cardBgJ">#FBFBFB</color>
+    <color name="cardBgK">#EDEDED</color>
+    <color name="cardBgL">#F8F8F8</color>
+    <color name="cardBgM">#FE475D</color>
+    <color name="cardBgN">#3B3B3B</color>
+    <color name="cardBgO">#6480D9</color>
+    <color name="cardBgP">#FF6380D9</color>
+    <color name="cardBgQ">#FFA9AEBD</color>
+    <color name="cardBgR">#f7faff</color>
+    <color name="cardBgS">#FFE9E9E9</color>
+
+    <!-- 字体颜色 -->
+    <color name="fontColorA">#FFFFFF</color>
+    <color name="fontColorB">#1A1A1A</color>
+    <color name="fontColorC">#FE475D</color>
+    <color name="fontColorD">#666666</color>
+    <color name="fontColorE">#999999</color>
+    <color name="fontColorF">#6884DB</color>
+    <color name="fontColorG">#333333</color>
+    <color name="fontColorH">#D91A1A1A</color>
+    <color name="fontColorI">#607DD9</color>
+    <color name="fontColorI_half">#66607DD9</color>
+    <color name="fontColorK">#D81A1A1A</color>
+    <color name="fontColorL">#D8D8D8</color>
+    <color name="fontColorM">#7F7F7F</color>
+    <color name="fontColorN">#1881D2</color>
+
+    <!-- 线颜色 -->
+    <color name="lineColorA">#FFFFFF</color>
+    <color name="lineColorB">#D8D8D8</color>
+    <color name="lineColorC">#6884DB</color>
+    <color name="lineDividerColor">#CCCCCC</color>
+    <color name="lineColorD">#CECED5</color>
+    <color name="lineColorE">#DEDEDE</color>
+    <color name="lineColorF">#CECECE</color>
+    <color name="lineColorG">#D8D8D8</color>
+    <color name="lineColorH">#FFE6E6EA</color>
+</resources>
